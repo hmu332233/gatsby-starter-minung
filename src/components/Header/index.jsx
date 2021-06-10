@@ -17,9 +17,9 @@ function Header(props) {
           <span className="ml-3 text-xl">{props.siteTitle}</span>
         </Link>
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-          <Link className="mr-5 hover:text-gray-900" to="/about">
+          {/* <Link className="mr-5 hover:text-gray-900" to="/about">
             About
-          </Link>
+          </Link> */}
           <Link className="mr-5 hover:text-gray-900" to="/">
             Posts
           </Link>
