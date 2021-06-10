@@ -1,13 +1,13 @@
 ---
-slug: '/posts/1/example'
-date: '2021-01-01'
-title: 'Example'
+slug: '/posts/4/example3'
+date: '2021-01-03'
+title: 'Example3'
 category: 'category1'
 ---
 
 # Example
 
-Hello! This is example.  
+Hello! This is posting example.
 There is "table of contents" on the right.
 
 
