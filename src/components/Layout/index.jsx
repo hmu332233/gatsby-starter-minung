@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
       <main>
         <section className="text-gray-700 body-font">
-          <div className="container flex flex-col px-5 py-24 mx-auto max-w-screen-sm">
+          <div className="container flex flex-col px-5 py-12 md:py-24 mx-auto max-w-screen-sm">
             {children}
           </div>
         </section>
