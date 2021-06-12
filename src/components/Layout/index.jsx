@@ -18,6 +18,8 @@ const Layout = ({ children }) => {
       site {
         siteMetadata {
           title
+          githubLink
+          author
         }
       }
     }
@@ -33,7 +35,10 @@ const Layout = ({ children }) => {
           </div>
         </section>
       </main>
-      <Footer />
+      <Footer
+        author={data.site.siteMetadata.author}
+        githubLink={data.site.siteMetadata.githubLink}
+      />
     </div>
   );
 };

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://hmu332233.github.io/gatsby-starter-minung`,
+    githubLink: `https://github.com/hmu332233/gatsby-starter-minung`,
     title: `Gatsby Starter Minung`,
     description: `blog theme with gatsby`,
     author: `[Name]`,
