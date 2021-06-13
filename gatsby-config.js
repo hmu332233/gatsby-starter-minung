@@ -9,6 +9,7 @@ module.exports = {
       name: `[Name]`,
       description: `introduction for profile`,
     },
+    utterances: `hmu332233/gatsby-starter-minung`, // your repo for comments
   },
   plugins: [
     `gatsby-plugin-sitemap`,
