@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     githubLink: `https://github.com/hmu332233/gatsby-starter-minung`,
+    siteUrl: `https://gatsby-starter-minung.netlify.app`,
     title: `Gatsby Starter Minung`,
     description: `blog theme with gatsby`,
     author: `[Name]`,
