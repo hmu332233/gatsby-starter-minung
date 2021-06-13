@@ -10,7 +10,6 @@ category: 'category1'
 Hello! This is example.  
 There is "table of contents" on the right.
 
-
 # H1
 
 Contents  
@@ -31,8 +30,7 @@ Contents
 Contents  
 Contents  
 Contents  
-Contents  
-
+Contents
 
 ## H2
 
@@ -54,7 +52,7 @@ Contents
 Contents  
 Contents  
 Contents  
-Contents  
+Contents
 
 ### H3
 
@@ -76,5 +74,4 @@ Contents
 Contents  
 Contents  
 Contents  
-Contents  
-
+Contents
