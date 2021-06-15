@@ -2,18 +2,20 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6aa5da12-7ed2-4de1-ba51-ec233ddb1bb7/deploy-status)](https://app.netlify.com/sites/gatsby-starter-minung/deploys)
 
+[한국어](./README.KR.md)
+
 ## Features
 
-- tailwindcss 기반 테마
-- 카테고리
-- 코드 하이라이팅
+- Tailwindcss based theme
+- Category
+- Code Highlighting
 - TOC
-- Utterances 기반 댓글
+- Comments based on Utterances
 - Google Analytics
 
 ## Getting Started
 
-Gatsby CLI를 이용하여 `gatsby-starter-minung`를 다운받고 실행할 수 있습니다.
+Use the Gatsby CLI to create a new site, specifying the `gatsby-starter-minung`.
 
 ```bash
 $ npx gatsby new my-blog https://github.com/hmu332233/gatsby-starter-minung
@@ -23,12 +25,13 @@ $ npm start
 
 ## Add Post
 
-contents를 추가하려면 `/posts`에 `.md` 파일을 추가하세요!  
-[template.md](https://github.com/hmu332233/gatsby-starter-minung/blob/main/posts/example.md) 파일을 참고하면 좋습니다.
+To add posts, just add a `.md` file to `/posts`  
+It is good to refer to file [template.md](https://github.com/hmu332233/gatsby-starter-minung/blob/main/posts/example.md).
+
 
 ## Deploy
 
-[netilfy](https://www.netlify.com/) 또는 [vercel](https://vercel.com/)을 사용하면 간편하게 배포할 수 있습니다.
+Use [netilfy](https://www.netlify.com/) or [vercel](https://vercel.com/) to simplify deployment.
 
 ## LICENSE
 
