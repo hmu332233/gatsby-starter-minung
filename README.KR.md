@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6aa5da12-7ed2-4de1-ba51-ec233ddb1bb7/deploy-status)](https://app.netlify.com/sites/gatsby-starter-minung/deploys)
 
-![desktop]('./assets/screen.png')
+![screen](./assets/screen.png)
 ## Features
 
 - tailwindcss 기반 테마
