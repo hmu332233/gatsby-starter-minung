@@ -4,6 +4,8 @@
 
 [한국어](./README.KR.md)
 
+![desktop]('./assets/screen.png')
+
 ## Features
 
 - Tailwindcss based theme
