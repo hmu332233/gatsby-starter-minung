@@ -16,7 +16,7 @@
     "gatsby-plugin-sass": "^5.0.0",
     "gatsby-plugin-sharp": "^4.0.1",
     "gatsby-plugin-sitemap": "^5.0.0",
-    "gatsby-plugin-typography": "^4.0.0",
+    "gatsby-plugin-typography": "^4.2.0",
     "gatsby-remark-autolink-headers": "^5.0.0",
     "gatsby-remark-images": "^6.0.0",
     "gatsby-remark-prismjs": "^6.0.0",
