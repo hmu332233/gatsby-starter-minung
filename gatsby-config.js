@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     githubLink: `https://github.com/hmu332233/gatsby-starter-minung`,
-    siteUrl: `https://gatsby-starter-minung.netlify.app`,
+    siteUrl: `https://minung.gatsbyjs.io`,
     title: `Gatsby Starter Minung`,
     description: `blog theme with gatsby`,
-    author: `[Name]`,
+    author: `[Name]`, // your name
     profile: {
-      image: `profile image`,
-      name: `[Name]`,
+      image: `https://avatars2.githubusercontent.com/u/10302969?v=4?v=3&s=88`, // your image
+      name: `[Name]`, // your name
       description: `introduction for profile`,
     },
     utterances: `hmu332233/gatsby-starter-minung`, // your repo for comments
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minung--dev-log`,
+        name: `[Site Name]`,
         short_name: `blog`,
         start_url: `/`,
         background_color: `#663399`,
