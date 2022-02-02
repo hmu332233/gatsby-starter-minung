@@ -29,7 +29,7 @@ $ npm start
 
 ## Deploy
 
-[netilfy](https://www.netlify.com/) 또는 [vercel](https://vercel.com/)을 사용하면 간편하게 배포할 수 있습니다.
+[Gatsby Cloud](https://www.gatsbyjs.com/products/cloud), [Netilfy](https://www.netlify.com/) 또는 [Vercel](https://vercel.com/)을 사용하면 간편하게 배포할 수 있습니다.
 
 ## LICENSE
 
