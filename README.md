@@ -33,7 +33,7 @@ It is good to refer to file [template.md](https://github.com/hmu332233/gatsby-st
 
 ## Deploy
 
-Use [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud) or [Vercel](https://vercel.com/) or [Netilfy](https://www.netlify.com/) to easily deploy it.
+Use [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud) or [Vercel](https://vercel.com/) or [Netilfy](https://www.netlify.com/) to easily deploy it.
 
 ## LICENSE
 
