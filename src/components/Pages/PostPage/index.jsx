@@ -10,6 +10,9 @@ import Profile from '@containers/Profile';
 import PostNavigator from '@components/PostNavigator';
 import PostToc from '@components/PostToc';
 
+import { defineCustomElements } from '@deckdeckgo/highlight-code/dist/loader';
+defineCustomElements();
+
 function PostPage(props) {
   return (
     <Layout>

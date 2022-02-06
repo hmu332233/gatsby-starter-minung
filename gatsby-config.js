@@ -54,6 +54,7 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-remark-autolink-headers`,
+          `gatsby-remark-highlight-code`,
           {
             resolve: `gatsby-remark-images`,
             options: {
