@@ -1,13 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import * as styles from './styles.module.scss';
-
-import classNames from 'classnames';
 
 function PostContents(props) {
   return (
-    <div
-      className={classNames(styles.PostContents, 'leading-relaxed')}
+    <article
+      className="prose"
       dangerouslySetInnerHTML={{ __html: props.html }}
     />
   );
