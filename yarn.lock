@@ -1125,21 +1125,7 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.14.0.tgz#46794bc20b612c5f75e62dd071e24dfd95f1cbe6"
-  integrity sha512-JELkvo/DlpNdJ7dlyw/eY7E0suy5i5GQH+Vlxaq1nsNJ+H7f4Vtv3jMeCEgRhZZQFXTjldYfQgv2qmM6M1v5wA==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
-"@babel/runtime@^7.14.6", "@babel/runtime@^7.15.4":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.16.0.tgz#e27b977f2e2088ba24748bf99b5e1dece64e4f0b"
-  integrity sha512-Nht8L0O8YCktmsDV6FqFue7vQLRx3Hb0B37lS5y0jDRqRxlBG4wIJHnf9/bgSE2UyipKFA01YtS+npRdTWBUyw==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
-"@babel/runtime@^7.16.3", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.14.6", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.3", "@babel/runtime@^7.2.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.16.7.tgz#03ff99f64106588c9c403c6ecb8c3bafbbdff1fa"
   integrity sha512-9E9FJowqAsytyOY6LG+1KuueckRL+aQW+mKvXRXnuFGyRAyepJPmEo9vgMfXUA6O9u3IeEdv9MAkppFcaQwogQ==
@@ -5846,10 +5832,10 @@ gatsby-plugin-react-helmet@^5.5.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-plugin-sass@^5.5.0:
-  version "5.5.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-5.5.0.tgz#e8fa465385eae25e53f8376b5b2c0fdf6b4ed02b"
-  integrity sha512-9DkbLvyplgigRvY4txFnFPJCekfLNohxuFkBwu5aJyewWYUrkToVbubGafRb1VqwTpI4WWqix6f/gUjUVbXhBw==
+gatsby-plugin-sass@^5.11.1:
+  version "5.11.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-5.11.1.tgz#82d204a5e7733d63e7ac0a9c86e319e79a71544f"
+  integrity sha512-FPj8UI70IOgTE5PkeyiX00ItOIxsv0RArEW3z3FI2muN66iWphuVwWj7H7SnebT4N8ap4SxLSF/xeBlh2rtl4A==
   dependencies:
     "@babel/runtime" "^7.15.4"
     resolve-url-loader "^3.1.4"
